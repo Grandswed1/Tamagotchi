@@ -1,0 +1,14 @@
+C:\Users\elliot.rydell\Documents\Programmering2\Tamagotchi\Tamagotchi\bin\Debug\net7.0\Tamagotchi.exe
+C:\Users\elliot.rydell\Documents\Programmering2\Tamagotchi\Tamagotchi\bin\Debug\net7.0\Tamagotchi.deps.json
+C:\Users\elliot.rydell\Documents\Programmering2\Tamagotchi\Tamagotchi\bin\Debug\net7.0\Tamagotchi.runtimeconfig.json
+C:\Users\elliot.rydell\Documents\Programmering2\Tamagotchi\Tamagotchi\bin\Debug\net7.0\Tamagotchi.dll
+C:\Users\elliot.rydell\Documents\Programmering2\Tamagotchi\Tamagotchi\bin\Debug\net7.0\Tamagotchi.pdb
+C:\Users\elliot.rydell\Documents\Programmering2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elliot.rydell\Documents\Programmering2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.AssemblyInfoInputs.cache
+C:\Users\elliot.rydell\Documents\Programmering2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.AssemblyInfo.cs
+C:\Users\elliot.rydell\Documents\Programmering2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\elliot.rydell\Documents\Programmering2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.dll
+C:\Users\elliot.rydell\Documents\Programmering2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\refint\Tamagotchi.dll
+C:\Users\elliot.rydell\Documents\Programmering2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.pdb
+C:\Users\elliot.rydell\Documents\Programmering2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.genruntimeconfig.cache
+C:\Users\elliot.rydell\Documents\Programmering2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\ref\Tamagotchi.dll
